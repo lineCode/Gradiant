@@ -6,7 +6,7 @@ It analyzes a student's current standing in a class and gives them feedback rega
 Getting Started
 1. Clone the repo
   
-    `$ git clone <link-to-repo>`
+    `$ git clone https://github.com/steerzac/Gradiant.git`
 
 2. Open the .dmg
   
