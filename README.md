@@ -6,11 +6,11 @@ It analyzes a student's current standing in a class and gives them feedback rega
 Getting Started
 1. Clone the repo
   
-    `$git clone <link-to-repo>`
+    `$ git clone <link-to-repo>`
 
 2. Open the .dmg
   
-    `$open Gradiant.dmg`
+    `$ open Gradiant.dmg`
 
 3. Click on the application.
 
